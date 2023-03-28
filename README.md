@@ -20,7 +20,8 @@
 
 ## Features
 List the ready features here:
-- Create an S3 bucket, 
+- Create an S3 bucket with folders for csv files and parquet files, 
+- upload csv file with customer data,
 
 ## Screenshots
 Schematic diagram
