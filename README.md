@@ -24,6 +24,7 @@ List the ready features here:
 - upload csv file with customer data,
 - Create database in AWS Glue,
 - Create crawler in AWS Glue for csv file,
+- Run crawler and create table from csv file,
 
 ## Screenshots
 Schematic diagram
