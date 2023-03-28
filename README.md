@@ -23,6 +23,7 @@ List the ready features here:
 - Create an S3 bucket with folders for csv files and parquet files, 
 - upload csv file with customer data,
 - Create database in AWS Glue,
+- Create crawler in AWS Glue for csv file,
 
 ## Screenshots
 Schematic diagram
