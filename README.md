@@ -25,6 +25,8 @@ List the ready features here:
 - Create database in AWS Glue,
 - Create crawler in AWS Glue for csv file,
 - Run crawler and create table from csv file,
+- Add jobs for create three parquet files with actions: aggregate, rename field, select fields,
+
 
 ## Screenshots
 Schematic diagram
