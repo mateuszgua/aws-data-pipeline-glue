@@ -27,6 +27,8 @@ List the ready features here:
 - Run crawler and create table from csv file,
 - Add jobs for create three parquet files with actions: aggregate, rename field, select fields,
 - Add sample of parquet files,
+- Create trigger for run fobs in schedule,
+- Add crawlers for create tables in database using parquets files,
 
 
 ## Screenshots
