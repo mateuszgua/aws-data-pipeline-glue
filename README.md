@@ -29,6 +29,7 @@ List the ready features here:
 - Add sample of parquet files,
 - Create trigger for run fobs in schedule,
 - Add crawlers for create tables in database using parquets files,
+- Add athena for show results frokm database tables,
 
 
 ## Screenshots
